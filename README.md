@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://remaining-aqua-lhyje5swc5.edgeone.app/omniscient%20reader%27s%20viewpoint%20%7B%20Kim%20Dokja%20_%20the%20ugliest%20King%20_%20%7D.jpg" alt="System Profile" height="300"/>
+  <img src="https://pin.it/2eNOSdvta" alt="System Profile" height="300"/>
 
   <br/>
 
@@ -57,8 +57,8 @@ I specialize in bridging the gap between theoretical machine learning and scalab
 > A production-grade multi-agent AI system that writes, executes, and reviews code autonomously. Built with a LangGraph state machine to enable a self-correcting asynchronous loop with zero human intervention.
 
 #### [AI Resume Screening Engine](https://github.com/Devupalliharsha/AI-Resume-Screening-System)
-`LangChain` `LangSmith` `NLP`
-> An automated candidate scoring pipeline. Extracts technical skills and experience from unstructured data, utilizing LangSmith to log and evaluate every step of the extraction and matching process.
+`LangChain` `LangSmith` `Groq API` `Hybrid Scoring`
+> A production-grade, 4-stage orchestration pipeline for candidate evaluation. Converts unstructured text to strict JSON for deterministic hybrid scoring, eliminating LLM math hallucinations while ensuring full observability via LangSmith.
 
 #### [FastAPI Booking Backend](https://github.com/Devupalliharsha/IN226019202_FastAPI)
 `FastAPI` `Python` `Async`
