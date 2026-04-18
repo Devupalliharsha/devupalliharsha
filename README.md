@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/Gfr9FJHK"/>
+  <img src="https://private-user-images.githubusercontent.com/187352574/580350260-3ce833bc-45fa-4a73-8806-b08b38e3c14d.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY1Mzc3MTEsIm5iZiI6MTc3NjUzNzQxMSwicGF0aCI6Ii8xODczNTI1NzQvNTgwMzUwMjYwLTNjZTgzM2JjLTQ1ZmEtNGE3My04ODA2LWIwOGIzOGUzYzE0ZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxOFQxODM2NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZDBmNTI4ZTJkMGU0ZTRiZGFjZGU1YTI5M2UxMDViNDMzYTI4M2I2YWJjYWExYjc2ZWU0YWM2MzBmOTIzNjA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.fKILDXIADqzODoYGe05cB8H6ivn23OtIPu9zW65O9Ws" alt="System Profile" height="300"/>
 
   <br/>
 
@@ -28,7 +28,7 @@ I specialize in bridging the gap between theoretical machine learning and scalab
 - **Agentic Orchestration:** Designing self-correcting, multi-agent LLM systems using **LangGraph** and **LangChain** for complex problem-solving loops.
 - **Backend Architecture:** Structuring high-performance, asynchronous REST APIs with **FastAPI**, prioritizing security and streamlined execution.
 - **Pipeline Observability:** Implementing step-by-step tracing, scoring, and debugging in production environments using **LangSmith**.
-- **Algorithmic Logic:** Optimizing data processing and complex string manipulation via advanced **Python** logic (frequently honed via HackerRank challenges).
+- **Algorithmic Logic:** Optimizing data processing and complex string manipulation via advanced **Python** logic.
 - **Applied NLP:** Utilizing token classification and text extraction to build intelligent parsing and screening engines.
 
 ---
@@ -67,6 +67,7 @@ I specialize in bridging the gap between theoretical machine learning and scalab
 ---
 
 ### 📊 METRICS & LOGS
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devupalliharsha&show_icons=true&theme=transparent&hide_border=true&title_color=8a0303&text_color=a3a3a3&icon_color=8a0303&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devupalliharsha&theme=transparent&hide_border=true&title_color=8a0303&text_color=a3a3a3&icon_color=8a0303" alt="GitHub Streak" />
