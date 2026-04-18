@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://kommodo.ai/i/uW4ihKg3Y59E2MsyTClT" alt="System Profile" height="300"/>
+  <img src="https://ibb.co/Gfr9FJHK"/>
 
   <br/>
 
