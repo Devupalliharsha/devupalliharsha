@@ -60,14 +60,13 @@ I specialize in bridging the gap between theoretical machine learning and scalab
 `LangChain` `LangSmith` `Groq API` `Hybrid Scoring`
 > A production-grade, 4-stage orchestration pipeline for candidate evaluation. Converts unstructured text to strict JSON for deterministic hybrid scoring, eliminating LLM math hallucinations while ensuring full observability via LangSmith.
 
-#### [FastAPI Booking Backend](https://github.com/Devupalliharsha/IN226019202_FastAPI)
+#### [FastAPI Booking Backend](https://github.com/Devupalliharsha/fastapi-movie-ticket-booking)
 `FastAPI` `Python` `Async`
 > A highly structured, secure ticket reservation API. Demonstrates core backend engineering principles, including robust routing, schema validation, and efficient data handling within a streamlined architecture.
 
 ---
 
 ### 📊 METRICS & LOGS
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devupalliharsha&show_icons=true&theme=transparent&hide_border=true&title_color=8a0303&text_color=a3a3a3&icon_color=8a0303&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devupalliharsha&theme=transparent&hide_border=true&title_color=8a0303&text_color=a3a3a3&icon_color=8a0303" alt="GitHub Streak" />
