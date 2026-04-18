@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wallpapercave.com/omniscient-readers-viewpoint-portrait-wallpapers" alt="System Profile" height="300"/>
+  <img src="https://remaining-aqua-lhyje5swc5.edgeone.app/omniscient%20reader%27s%20viewpoint%20%7B%20Kim%20Dokja%20_%20the%20ugliest%20King%20_%20%7D.jpg" alt="System Profile" height="300"/>
 
   <br/>
 
