@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="" alt="System Profile" height="300"/>
-
+  
   <br/>
 
   # HARSHA VARDHAN
