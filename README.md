@@ -51,7 +51,7 @@ I specialize in bridging the gap between theoretical machine learning and scalab
 
 ### 📂 DEPLOYED ARCHITECTURES
 
-#### [Local RAG Support Architecture](https://github.com/devupalliharsha/rag-support)
+#### [Local RAG Support Architecture](https://github.com/devupalliharsha/rag-project)
 `LangGraph` `Ollama` `ChromaDB` `HITL Escalation`
 > A fully local, zero-cost Retrieval-Augmented Generation (RAG) assistant. Orchestrated via a LangGraph state machine with deterministic logic gates and built-in Human-in-the-Loop (HITL) escalation to prevent LLM hallucinations.
 
